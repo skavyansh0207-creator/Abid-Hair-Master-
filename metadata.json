@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hairport Salon Jalandhar",
+  "description": "Abid Hair Master - Unisex Salon & Beauty Parlour in Sector 31, Chandigarh. Rated 4.9★ (2.2k+ reviews). Specializing in children's cuts, curly hair, dreadlocks, braiding, box braids, balayage, ombre, keratin treatments, hair extensions, and bridal makeovers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
